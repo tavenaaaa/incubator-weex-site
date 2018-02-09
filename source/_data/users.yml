@@ -103,3 +103,8 @@ dianwoda:
   icon: 'http://prodwbbucket.oss-cn-hangzhou.aliyuncs.com/weex/rider/icon/dwdriderandroid.png'
   iOS: 'http://a.app.qq.com/o/simple.jsp?pkgname=com.dwd.rider'
   android: 'http://a.app.qq.com/o/simple.jsp?pkgname=com.dwd.rider'
+gaotieguanjia:
+  name: '高铁管家'
+  icon: 'http://cdn.rsscc.cn/gtgj/icon/logo_radius.png'
+  iOS: 'https://itunes.apple.com/cn/app/id515199321?mt=8'
+  android: 'http://sj.qq.com/myapp/detail.htm?apkName=com.gtgj.view'
